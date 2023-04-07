@@ -1,8 +1,0 @@
-Thao,Trinh,TT-2467,thao@sjsu.edu,abc1234#kjdJ
-Sandy,Tran,ST-6264,sandy@sjsu.edu,sfnkdgjns#3D
-Truffle,Le,TL-1924,truffle@gmail.com,abc123mom!S
-Dylan,Chan,DC-7699,dylan,Dylanchan12#
-jkdfhskd,jhgkhj,JJ-1211,fkgjhskf,dfgdfgkjHdf4$
-Abc,lksdf,AL-2316,sklfnslkdfn,abc123mom!S
-Thao,Trinh,TT-5772,thao@sjsu.edu,abc123!!B
-Abc,Abc,AA-9970,Abc@gmail.com,Abc123!@#
