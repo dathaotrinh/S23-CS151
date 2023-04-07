@@ -1,0 +1,19 @@
+
+c
+java:S1192"HDefine a constant instead of duplicating this literal "Truffle" 5 times.(‘ŞÙõøÿÿÿÿ
+a
+java:S1192""FDefine a constant instead of duplicating this literal "Mocha" 6 times.(Ûˆ·ıùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¾é«ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(œ™À
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ëë¢Ø
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(©ƒÌ®øÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(¬Í«ùÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(¥³á¹ûÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(ƒòİ¢8éãâÙê0
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ŸæÜ–üÿÿÿÿ8ƒãˆÚê0
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8­ìŸÚê0
+U	java:S106["9Replace this use of System.out or System.err by a logger.(…õ÷Œ8œ¸ Úê0
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(…ç¥ø8‹¾¡Úê0

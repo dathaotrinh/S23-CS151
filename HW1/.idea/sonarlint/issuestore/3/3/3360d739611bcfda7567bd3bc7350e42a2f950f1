@@ -1,0 +1,15 @@
+
+`	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(¤ò¦¯úÿÿÿÿ
+`	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(ƒ£âÙÿÿÿÿÿ
+c
+java:S2184C"HCast one of the operands of this multiplication operation to a "double".(¿¾¹øüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÐÄÖ¸ùÿÿÿÿ
+d
+java:S3518V"BMake sure "totalCredits" can't be zero before doing this division.(Êô½·þÿÿÿÿ8¡Í»ªç0
+O
+java:S2864M"4Iterate over the "entrySet" instead of the "keySet".(ºëù»ÿÿÿÿÿ
+R
+java:S1117V"7Rename "gpa" which hides the field declared at line 11.(Êô½·þÿÿÿÿ
+O
+java:S2864_"4Iterate over the "entrySet" instead of the "keySet".(ºëù»ÿÿÿÿÿ
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(¨—êù
